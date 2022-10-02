@@ -1,0 +1,10 @@
+C:\Training\T1\Fundo1\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.deps.json
+C:\Training\T1\Fundo1\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Training\T1\Fundo1\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Training\T1\Fundo1\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.AssemblyReference.cache
+C:\Training\T1\Fundo1\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\T1\Fundo1\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfoInputs.cache
+C:\Training\T1\Fundo1\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfo.cs
+C:\Training\T1\Fundo1\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Training\T1\Fundo1\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Training\T1\Fundo1\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.pdb
